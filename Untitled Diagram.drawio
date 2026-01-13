@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Page-1" id="fJDke3CPy2g3N0QkxHgM">
-    <mxGraphModel dx="901" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,8 @@
         <mxCell id="O9zNePbgVXpSDAQSxmVU-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Mechanical / Process Functions&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="150" x="770" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="O9zNePbgVXpSDAQSxmVU-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span id=&quot;docs-internal-guid-f9e07369-7fff-759e-c890-bf55fb6edba0&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Maintaining pH and temperature suitable for spirulina growth&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="170" x="110" y="280" as="geometry" />
+        <mxCell id="O9zNePbgVXpSDAQSxmVU-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;b&gt;Maintain Stable Internal Conditions&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="170" x="110" y="280" as="geometry" />
         </mxCell>
         <mxCell id="O9zNePbgVXpSDAQSxmVU-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Process Monitoring&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="150" x="340" y="280" as="geometry" />
