@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Page-1" id="fJDke3CPy2g3N0QkxHgM">
-    <mxGraphModel dx="901" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,8 +25,20 @@
         <mxCell id="O9zNePbgVXpSDAQSxmVU-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Process Monitoring&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="150" x="350" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="O9zNePbgVXpSDAQSxmVU-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;CO₂ Capture &amp;amp; Spirulina Growth&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="150" x="670" y="310" as="geometry" />
+        <mxCell id="O9zNePbgVXpSDAQSxmVU-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;CO2 Capture &amp;amp; Spirulina Growth&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="630" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="O9zNePbgVXpSDAQSxmVU-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Biomass Separation&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="850" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="O9zNePbgVXpSDAQSxmVU-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Anaerobic Process (Make Hydrogen)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="640" y="389" as="geometry" />
+        </mxCell>
+        <mxCell id="O9zNePbgVXpSDAQSxmVU-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Gas Management&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="650" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="O9zNePbgVXpSDAQSxmVU-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Hydrogen Storage&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="720" y="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
