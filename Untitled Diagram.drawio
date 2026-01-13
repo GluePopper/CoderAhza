@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Page-1" id="fJDke3CPy2g3N0QkxHgM">
-    <mxGraphModel dx="1183" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,16 +14,16 @@
           <mxGeometry height="50" width="150" x="520" y="80" as="geometry" />
         </mxCell>
         <mxCell id="O9zNePbgVXpSDAQSxmVU-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Program / Control Functions&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="150" x="240" y="230" as="geometry" />
+          <mxGeometry height="50" width="150" x="240" y="200" as="geometry" />
         </mxCell>
         <mxCell id="O9zNePbgVXpSDAQSxmVU-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Mechanical / Process Functiosn&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="150" x="770" y="230" as="geometry" />
         </mxCell>
         <mxCell id="O9zNePbgVXpSDAQSxmVU-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Sensor &amp;amp; Data system&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="150" x="160" y="310" as="geometry" />
+          <mxGeometry height="50" width="150" x="130" y="280" as="geometry" />
         </mxCell>
         <mxCell id="O9zNePbgVXpSDAQSxmVU-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Process Monitoring&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="150" x="350" y="310" as="geometry" />
+          <mxGeometry height="50" width="150" x="340" y="280" as="geometry" />
         </mxCell>
         <mxCell id="O9zNePbgVXpSDAQSxmVU-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;CO2 Capture &amp;amp; Spirulina Growth&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="150" x="630" y="300" as="geometry" />
