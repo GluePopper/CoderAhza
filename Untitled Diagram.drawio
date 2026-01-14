@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="Page-1" id="fJDke3CPy2g3N0QkxHgM">
-    <mxGraphModel dx="1535" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1631" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
           <mxGeometry height="50" width="150" y="290" as="geometry" />
         </mxCell>
         <mxCell id="O9zNePbgVXpSDAQSxmVU-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;CO₂ Capture&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="150" x="882.5" y="443" as="geometry" />
+          <mxGeometry height="50" width="150" x="800" y="426" as="geometry" />
         </mxCell>
         <mxCell id="O9zNePbgVXpSDAQSxmVU-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Contain Liquid Culture (Closed System)&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="160" x="1240" y="360" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry height="50" width="150" x="800" y="280" as="geometry" />
         </mxCell>
         <mxCell id="O9zNePbgVXpSDAQSxmVU-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Gas will flew from the bioreactors&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="150" x="712.5" y="510" as="geometry" />
+          <mxGeometry height="50" width="150" x="800" y="495" as="geometry" />
         </mxCell>
         <mxCell id="1fQ7zTnkhCOrfthmXStg-7" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;b&gt;Lighting System&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1045" y="277.5" as="geometry" />
@@ -113,10 +113,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P-GjDxdPgst9V5qJpfEI-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;BioGas Storage&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="150" x="801" y="661" as="geometry" />
+          <mxGeometry height="50" width="150" x="800" y="680" as="geometry" />
         </mxCell>
         <mxCell id="P-GjDxdPgst9V5qJpfEI-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Spirulina Natural Process Capturing The&amp;nbsp;&lt;/b&gt;&lt;b&gt;CO₂&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="160" x="877.5" y="510" as="geometry" />
+          <mxGeometry height="50" width="160" x="795" y="560" as="geometry" />
         </mxCell>
         <mxCell id="P-GjDxdPgst9V5qJpfEI-8" edge="1" parent="1" source="O9zNePbgVXpSDAQSxmVU-12" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="zpk3XTjaCno5_EOd98gi-9" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -133,35 +133,14 @@
         <mxCell id="Rw4ShnF1l32BqtLRWtj1-27" edge="1" parent="1" source="Rw4ShnF1l32BqtLRWtj1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Rw4ShnF1l32BqtLRWtj1-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P-GjDxdPgst9V5qJpfEI-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="zpk3XTjaCno5_EOd98gi-9" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="875" y="420" as="sourcePoint" />
-            <mxPoint x="910" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P-GjDxdPgst9V5qJpfEI-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="787" y="420" as="sourcePoint" />
-            <mxPoint x="960" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P-GjDxdPgst9V5qJpfEI-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="787.32" y="420" as="sourcePoint" />
-            <mxPoint x="787.32" y="443" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="P-GjDxdPgst9V5qJpfEI-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="960" y="420" as="sourcePoint" />
-            <mxPoint x="960" y="443" as="targetPoint" />
+            <mxPoint x="877.5" y="403" as="sourcePoint" />
+            <mxPoint x="877.5" y="426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-GjDxdPgst9V5qJpfEI-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;E-Nose Reading&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="816" y="581" as="geometry" />
-        </mxCell>
-        <mxCell id="P-GjDxdPgst9V5qJpfEI-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Gas will flew from the bioreactors&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="150" x="712.5" y="443" as="geometry" />
+          <mxGeometry height="30" width="130" x="810" y="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
